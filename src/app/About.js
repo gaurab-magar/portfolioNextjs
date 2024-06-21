@@ -14,29 +14,9 @@ const About = () => {
                 </div>
                 <div className="space-y-2">
                 <p className="max-w-[600px] text-center text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
-                    I'm a passionate frontend developer with a keen eye for design. I specialize in creating beautiful,
+                    Im a passionate frontend developer with a keen eye for design. I specialize in creating beautiful,
                     responsive, and user-friendly web applications using the latest technologies and best practices.
                 </p>
-                    {/* <div className="grid grid-cols-2 gap-4">
-                        <div className="space-y-1">
-                        <h3 className="text-lg font-bold">Skills</h3>
-                        <ul className="space-y-1 text-gray-500 dark:text-gray-400">
-                            <li>React</li>
-                            <li>Next.js</li>
-                            <li>Tailwind CSS</li>
-                            <li>JavaScript</li>
-                            <li>HTML/CSS</li>
-                        </ul>
-                        </div>
-                        <div className="space-y-1">
-                        <h3 className="text-lg font-bold">Experience</h3>
-                        <ul className="space-y-1 text-gray-500 dark:text-gray-400">
-                            <li>3+ years as a frontend developer</li>
-                            <li>Worked with various startups and agencies</li>
-                            <li>Passionate about building user-friendly apps</li>
-                        </ul>
-                    </div>
-                </div> */}
                 </div>
            </div>
          </section>
