@@ -15,7 +15,7 @@ const Skill = () => {
       <div className="container mx-auto px-4 md:px-6 ">
         <div className="flex flex-col items-center justify-center space-y-4 text-center">
           <div className="space-y-2">
-            <h2 className="font-bold tracking-[7px] md:tracking-[14px] text-lg uppercase">My Skills</h2>
+            <h2 className="font-bold tracking-[7px] md:tracking-[14px] text-lg uppercase text-fuchsia-700">My Skills</h2>
             <p className="uppercase max-w-[900px] text-gray-500 text-sm md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
               Some of the technologies Im proficient in FrontEnd.
             </p>
