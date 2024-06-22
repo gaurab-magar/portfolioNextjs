@@ -4,8 +4,8 @@ import Image from 'next/image';
 
 const Featured = () => {
   return (
-    <section className="w-full py-8 bg-gray-100 dark:bg-gray-800">
-            <h2 className="font-bold tracking-[7px] md:tracking-[14px] text-lg uppercase text-center pb-4 text-fuchsia-700">ABOUT ME</h2>
+    <section className="w-full py-8 dark:bg-gray-800">
+            <h2 className="font-bold tracking-[7px] md:tracking-[14px] text-lg uppercase text-center pb-4 text-fuchsia-700">Featured Project</h2>
           <div className="mx-auto container px-4 md:px-6">
             <div className="space-y-4 text-center">
               <p className="max-w-[900px] text-gray-500 md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed dark:text-gray-400">
